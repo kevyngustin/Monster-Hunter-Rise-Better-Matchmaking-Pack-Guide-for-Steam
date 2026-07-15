@@ -12,11 +12,12 @@ PT-BR: Todo o trabalho técnico e de engenharia reversa pertence aos criadores o
 REFramework: Created by praydog
 
 Better Matchmaking: Created by GreenComfyTea
+
                <img width="750" height="402" alt="Thanks!" src="https://github.com/user-attachments/assets/b790195e-57c2-409d-809f-a13f4d84d9fb" />
 
 
-               🎁 Bônus para Caçadores Veteranos / Bonus for Veteran Hunters [/h1]
+               🎁 Bônus para Caçadores Veteranos / Bonus for Veteran Hunters 
 EN: Still playing the classics? If you enjoy hunting on the 3DS or emulators, I've put together a complete repository containing files, tools, and tutorials for Monster Hunter Double Cross and Generations Ultimate.
 PT-BR: Ainda joga os clássicos? Se você curte caçar no 3DS ou em emuladores, eu montei um repositório completo contendo arquivos, ferramentas e tutoriais para Monster Hunter Double Cross e Generations Ultimate.
 
-🔗 https://github.com/kevyngustin/MHXX-MHGU-Definitive-Pack-BR] Acesse o MHXX-MHGU Definitive Pack BR Aqui / Access it Here 
+🔗Acesse o MHXX-MHGU Definitive Pack BR Aqui / Access it Here:  https://github.com/kevyngustin/MHXX-MHGU-Definitive-Pack-BR]
