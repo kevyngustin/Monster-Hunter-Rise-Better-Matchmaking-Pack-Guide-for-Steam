@@ -10,11 +10,9 @@ EN: All the technical work and reverse engineering belong to the original mod cr
 PT-BR: Todo o trabalho técnico e de engenharia reversa pertence aos criadores originais dos mods. Este repositório é apenas uma compilação com o objetivo de facilitar o processo de instalação para a comunidade da Steam. Todos os créditos vão para eles.
 
 REFramework: Created by praydog
-
 Better Matchmaking: Created by GreenComfyTea
-
-               <img width="750" height="402" alt="Thanks!" src="https://github.com/user-attachments/assets/b790195e-57c2-409d-809f-a13f4d84d9fb" />
-
+            
+   <img width="750" height="402" alt="Thanks!" src="https://github.com/user-attachments/assets/b790195e-57c2-409d-809f-a13f4d84d9fb" />
 
                🎁 Bônus para Caçadores Veteranos / Bonus for Veteran Hunters 
 EN: Still playing the classics? If you enjoy hunting on the 3DS or emulators, I've put together a complete repository containing files, tools, and tutorials for Monster Hunter Double Cross and Generations Ultimate.
