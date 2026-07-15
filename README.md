@@ -9,8 +9,7 @@ Este repositório contém os arquivos essenciais para corrigir o bloqueio de reg
 EN: All the technical work and reverse engineering belong to the original mod creators. This repository is solely a compilation intended to make the installation process easier for the Steam community. All credits go to them.
 PT-BR: Todo o trabalho técnico e de engenharia reversa pertence aos criadores originais dos mods. Este repositório é apenas uma compilação com o objetivo de facilitar o processo de instalação para a comunidade da Steam. Todos os créditos vão para eles.
 
-REFramework: Created by praydog
-Better Matchmaking: Created by GreenComfyTea
+REFramework: Created by praydog / Better Matchmaking: Created by GreenComfyTea
             
    <img width="750" height="402" alt="Thanks!" src="https://github.com/user-attachments/assets/b790195e-57c2-409d-809f-a13f4d84d9fb" />
 
