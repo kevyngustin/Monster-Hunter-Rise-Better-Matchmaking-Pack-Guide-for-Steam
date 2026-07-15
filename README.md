@@ -1,4 +1,5 @@
 # Monster-Hunter-Rise-Better-Matchmaking-Pack-Guide-for-Steam
+dOWNLOAD IT ON RELEASES TAB / BAIXE OS ARQUIVOS NA ABA DE RELEASES
 This repository contains the essential files to fix the region-locked matchmaking in Monster Hunter Rise on PC. Instead of navigating multiple sites, creating accounts, and downloading individual files, you can download this pre-organized package and extract it directly into your game folder.
 Este repositório contém os arquivos essenciais para corrigir o bloqueio de região no matchmaking do Monster Hunter Rise no PC. Em vez de navegar por vários sites, criar contas e baixar arquivos individuais, você pode baixar este pacote já organizado e extrair direto na pasta do seu jogo.
 
